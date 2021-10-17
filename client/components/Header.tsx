@@ -126,13 +126,13 @@ const Header: FC = () => {
           >
             <Li>
               <ALink
-                href="//github.com/thedevs-network/kutt"
+                href="//www.elitaco.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                title="GitHub"
+                title="Elitaco Sdn Bhd"
                 fontSize={[14, 16]}
               >
-                GitHub
+                Elitaco Sdn Bhd
               </ALink>
             </Li>
             <Li>
