@@ -27,16 +27,8 @@ const Footer: FC = () => {
       {!isAuthenticated && <ReCaptcha />}
       <Text fontSize={[12, 13]} py={2}>
         Made with love by{" "}
-        <ALink href="//thedevs.network/" title="The Devs">
-          The Devs
-        </ALink>
-        .{" | "}
-        <ALink
-          href="https://github.com/thedevs-network/kutt"
-          title="GitHub"
-          target="_blank"
-        >
-          GitHub
+        <ALink href="//www.elitaco.com/" title="Elitaco Sdn Bhd">
+          Elitaco Sdn Bhd
         </ALink>
         {" | "}
         <ALink href="/terms" title="Terms of Service">
